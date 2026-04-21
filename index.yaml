@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cloud-native-todo-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-04-21T08:25:23.095828032Z"
+    description: A Helm chart for Kubernetes
+    digest: 73d1898f829d56eaa812010f21f8d910080b8be170270c64657098c60e36f829
+    name: cloud-native-todo-app
+    type: application
+    urls:
+    - cloud-native-todo-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-04-21T08:25:23.094720236Z"
